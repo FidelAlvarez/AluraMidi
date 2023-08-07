@@ -18,7 +18,7 @@ O projeto trata-se de um tocador musical, no estilo percussão onde cada tecla r
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento]().
+[Veja o projeto final do curso em funcionamento](https://alura-midi-wheat.vercel.app/).
 
 Neste repositório você tem acesso a todo o material produzido no curso.
 
